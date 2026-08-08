@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    color: #222;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 12px 20px;
+    cursor: pointer;
+}
+
+.message {
+    color: green;
+    background: #ffffff;
+    padding: 0;
+}
