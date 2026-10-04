@@ -14,5 +14,18 @@ def get_user(user_id, users):
     return None
 
 
-def calculate_total(price, quantity):
-    return price + quantity
+def divide_numbers(a, b):
+    return a / b
+
+
+def get_user_name(user):
+    return user["name"]
+
+
+def process_items(items):
+    results = []
+
+    for item in items:
+        results.append(item["value"])
+
+    return results
