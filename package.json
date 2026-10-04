@@ -1,0 +1,13 @@
+{
+  "name": "mergemind-demo",
+  "version": "1.0.0",
+  "description": "MergeMind code review demonstration",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js",
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "express": "999.0.0"
+  }
+}
